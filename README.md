@@ -15,6 +15,9 @@ for Java, with the following changes:
 * Indentation:
   - +4 spaces for new blocks
   - Double for continuation blocks
+* Line-wrapping:
+  - Enum constants are always wrapped
+  - Annotations are always wrapped, but not the parameters even if they exceed the line limit
 
 ## SETTING UP IDE
 
