@@ -151,6 +151,14 @@
     <option name="LABEL_INDENT_ABSOLUTE" value="false" />
     <option name="USE_RELATIVE_INDENTS" value="false" />
   </ADDITIONAL_INDENT_OPTIONS>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="ECMA Script Level 4">
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
