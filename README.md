@@ -9,9 +9,9 @@ They are based in the [Google Style Guides](https://google.github.io/styleguide/
 for Java, with the following changes:
 
 * Blocks of non-static imports ordering:
-  1) `org.magicdgs.*`
-  2) other packages in alphabetical order
-  3) `java.*` and `javax.*`
+  1. `org.magicdgs.*`
+  2. other packages in alphabetical order
+  3. `java.*` and `javax.*`
 * Indentation:
   - +4 spaces for new blocks
   - Double for continuation blocks
