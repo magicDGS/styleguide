@@ -6,14 +6,18 @@ formatting with different IDEs for contributors and maintain consistency in
 my code.
 
 They are based in the [Google Style Guides](https://google.github.io/styleguide/javaguide.html)
-for Java.
+for Java, with the following changes:
+
+* Blocks of non-static imports ordering:
+  1) `org.magicdgs.*`
+  2) other packages in alphabetical order
+  3) `java.*` and `javax.*`
 
 ## SETTING UP IDE
 
 * IntelliJ
-  - Copy the [intellij-java-magicdgs-style.xml](https://github.com/magicDGS/styleguide/intellij-java-magicdgs-style.xml) into `~/Library/Preferences/IntelliJIdea${version}`
-  - Go to "Preferences" and them to "Coding Style" in IntelliJ
-  - `magicDGS` style may be in the options for apply 
+  - Go to "Preferences" and them to "Coding Style" in IntelliJ.
+  - Inport [intellij-java-magicdgs-style.xml](https://github.com/magicDGS/styleguide/intellij-java-magicdgs-style.xml)
 
 ## LICENSE
 
