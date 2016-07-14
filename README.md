@@ -27,7 +27,7 @@ for Java, with the following changes:
 
 * IntelliJ
   - Go to "Preferences" and them to "Coding Style" in IntelliJ.
-  - Inport [intellij-java-magicdgs-style.xml](https://github.com/magicDGS/styleguide/intellij-java-magicdgs-style.xml)
+  - Inport [intellij-java-magicdgs-style.xml](https://github.com/magicDGS/styleguide/blob/master/intellij-java-magicdgs-style.xml)
 
 ## LICENSE
 
