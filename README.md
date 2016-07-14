@@ -6,7 +6,7 @@ formatting with different IDEs for contributors and maintain consistency in
 my code.
 
 They are based in the [Google Style Guides](https://google.github.io/styleguide/javaguide.html)
-for Java, with the following changes:
+for Java, with the following changes (mandatory):
 
 * Blocks of non-static imports ordering:
   1. `org.magicdgs.*`
@@ -14,7 +14,7 @@ for Java, with the following changes:
   3. `java.*` and `javax.*`
 * Indentation:
   - +4 spaces for new blocks
-  - Double for continuation blocks
+  - Double spacing for continuation blocks
   - No alignment in multi-line statements
 * Line-wrapping:
   - Enum constants are always wrapped
