@@ -12,6 +12,9 @@ for Java, with the following changes:
   1) `org.magicdgs.*`
   2) other packages in alphabetical order
   3) `java.*` and `javax.*`
+* Indentation:
+  - +4 spaces for new blocks
+  - Double for continuation blocks
 
 ## SETTING UP IDE
 
