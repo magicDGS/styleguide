@@ -19,6 +19,9 @@ for Java, with the following changes:
 * Line-wrapping:
   - Enum constants are always wrapped
   - Annotations are always wrapped, but not the parameters even if they exceed the line limit
+* Javadoc:
+  - At-clauses descriptions are aligned
+  - Blank lines after description, @param and @return
 
 ## SETTING UP IDE
 
