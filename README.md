@@ -1,11 +1,12 @@
 Style Guides for magicDGS projects
 ==================================
 
-This repository contains style guides for code in my projects, to facilitate 
-formatting with different IDEs for contributors and maintain consistency in
+This repository contains style guides for code in my projects, to facilitate
+formatting with different IDEs for contributors and to maintain consistency in
 my code.
 
-They are based in the [Google Style Guides](https://google.github.io/styleguide/javaguide.html)
+
+They are based in the [Google Style Guide](https://google.github.io/styleguide/javaguide.html)
 for Java, with the following changes (mandatory):
 
 * Blocks of non-static imports ordering:
@@ -26,8 +27,14 @@ for Java, with the following changes (mandatory):
 ## SETTING UP IDE
 
 * IntelliJ
-  - Go to "Preferences" and them to "Coding Style" in IntelliJ.
-  - Inport [intellij-java-magicdgs-style.xml](https://github.com/magicDGS/styleguide/blob/master/intellij-java-magicdgs-style.xml)
+  - Go to "Preferences" -> "Coding Style".
+  - Import [intellij-java-magicdgs-style.xml](https://github.com/magicDGS/styleguide/blob/master/intellij-java-magicdgs-style.xml)
+
+* Eclipse
+  - Go to "Window" -> "Preferences", then to "Java" -> "Code Style".
+  - In "Clean Up", click on "Import" and select the file [eclipse-java-magicdgs-cleanUp.xml](https://github.com/magicDGS/styleguide/blob/master/eclipse-java-magicdgs-cleanUp.xml)
+  - In "Formatter", click on "Import" and select the file [eclipse-java-magicdgs-formatter.xml](https://github.com/magicDGS/styleguide/blob/master/eclipse-java-magicdgs-formatter.xml)
+  - In "Organize Imports", click on "Import" and select the file [eclipse-java-magicdgs.importorder](https://github.com/magicDGS/styleguide/blob/master/eclipse-java-magicdgs.importorder)
 
 ## LICENSE
 
